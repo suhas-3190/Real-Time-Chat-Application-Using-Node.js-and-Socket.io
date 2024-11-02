@@ -18,7 +18,7 @@ Wassup is a real-time chat application developed using Node.js and Socket.IO. It
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/Arshad-khan05/Real-Time-Chat-Application-Using-Node.js-and-Socket.io.git
+   git clone https://github.com/suhas-3190/Real-Time-Chat-Application-Using-Node.js-and-Socket.io.git
    ```
 1. Navigate to the project directory:
    ```bash
